@@ -138,7 +138,7 @@ button.toc-button {
   height: var(--base-unit);
   transform: translateX(-50%) translateY(-50%);
   background-color: var(--paper-color);
-  border: 1px solid var(--text-color);
+  border: 1px solid var(--spot-color);
   color: inherit;
   z-index: 100000;
 }
