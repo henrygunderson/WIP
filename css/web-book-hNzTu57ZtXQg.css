@@ -397,7 +397,7 @@ div.book div.title h1 {
   font-variant-caps: small-caps;
   text-transform: lowercase;
   line-height: calc( var(--line-height) * 2.0 );
-  color: var(--text-color);
+  color: var(--spot-color);
 }
 
 div.book div.title h1 span {
