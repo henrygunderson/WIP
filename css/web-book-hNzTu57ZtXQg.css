@@ -235,7 +235,7 @@ nav div.controls button:last-child {
 }
 
 nav div.controls button:hover {
-  color: var(--text-color);
+  color: var(--spot-color);
 }
 
 nav h1 {
